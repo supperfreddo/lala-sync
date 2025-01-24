@@ -1,0 +1,1742 @@
+[
+    {
+        "id": 1,
+        "name": "Dodo"
+    },
+    {
+        "id": 2,
+        "name": "Tonberry"
+    },
+    {
+        "id": 3,
+        "name": "Sabotender"
+    },
+    {
+        "id": 4,
+        "name": "Spriggan"
+    },
+    {
+        "id": 5,
+        "name": "Pudding"
+    },
+    {
+        "id": 6,
+        "name": "Bomb"
+    },
+    {
+        "id": 7,
+        "name": "Mandragora"
+    },
+    {
+        "id": 8,
+        "name": "Coblyn"
+    },
+    {
+        "id": 9,
+        "name": "Morbol"
+    },
+    {
+        "id": 10,
+        "name": "Coeurl"
+    },
+    {
+        "id": 11,
+        "name": "Ahriman"
+    },
+    {
+        "id": 12,
+        "name": "Goobbue"
+    },
+    {
+        "id": 13,
+        "name": "Chocobo"
+    },
+    {
+        "id": 14,
+        "name": "Amalj'aa"
+    },
+    {
+        "id": 15,
+        "name": "Ixal"
+    },
+    {
+        "id": 16,
+        "name": "Sylph"
+    },
+    {
+        "id": 17,
+        "name": "Kobold"
+    },
+    {
+        "id": 18,
+        "name": "Sahagin"
+    },
+    {
+        "id": 19,
+        "name": "Tataru Taru"
+    },
+    {
+        "id": 20,
+        "name": "Moogle"
+    },
+    {
+        "id": 21,
+        "name": "Siren"
+    },
+    {
+        "id": 22,
+        "name": "Ultros & Typhon"
+    },
+    {
+        "id": 23,
+        "name": "Demon Wall"
+    },
+    {
+        "id": 24,
+        "name": "Succubus"
+    },
+    {
+        "id": 25,
+        "name": "Chimera"
+    },
+    {
+        "id": 26,
+        "name": "Blue Dragon"
+    },
+    {
+        "id": 27,
+        "name": "Scarface Bugaal Ja"
+    },
+    {
+        "id": 28,
+        "name": "Momodi Modi"
+    },
+    {
+        "id": 29,
+        "name": "Baderon Tenfingers"
+    },
+    {
+        "id": 30,
+        "name": "Mother Miounne"
+    },
+    {
+        "id": 31,
+        "name": "Livia sas Junius"
+    },
+    {
+        "id": 32,
+        "name": "Rhitahtyn sas Arvina"
+    },
+    {
+        "id": 33,
+        "name": "Biggs & Wedge"
+    },
+    {
+        "id": 34,
+        "name": "Gerolt"
+    },
+    {
+        "id": 35,
+        "name": "Frixio"
+    },
+    {
+        "id": 36,
+        "name": "Mutamix Bubblypots"
+    },
+    {
+        "id": 37,
+        "name": "Memeroon"
+    },
+    {
+        "id": 38,
+        "name": "Behemoth"
+    },
+    {
+        "id": 39,
+        "name": "Gilgamesh & Enkidu"
+    },
+    {
+        "id": 40,
+        "name": "Ifrit"
+    },
+    {
+        "id": 41,
+        "name": "Titan"
+    },
+    {
+        "id": 42,
+        "name": "Garuda"
+    },
+    {
+        "id": 43,
+        "name": "Good King Moggle Mog XII"
+    },
+    {
+        "id": 44,
+        "name": "Raya-O-Senna & A-Ruhn-Senna"
+    },
+    {
+        "id": 45,
+        "name": "Godbert Manderville"
+    },
+    {
+        "id": 46,
+        "name": "Thancred"
+    },
+    {
+        "id": 47,
+        "name": "Nero tol Scaeva"
+    },
+    {
+        "id": 48,
+        "name": "Papalymo & Yda"
+    },
+    {
+        "id": 49,
+        "name": "Y'shtola"
+    },
+    {
+        "id": 50,
+        "name": "Urianger"
+    },
+    {
+        "id": 51,
+        "name": "Ultima Weapon"
+    },
+    {
+        "id": 52,
+        "name": "Odin"
+    },
+    {
+        "id": 53,
+        "name": "Ramuh"
+    },
+    {
+        "id": 54,
+        "name": "Leviathan"
+    },
+    {
+        "id": 55,
+        "name": "Shiva"
+    },
+    {
+        "id": 56,
+        "name": "Minfilia"
+    },
+    {
+        "id": 57,
+        "name": "Lahabrea"
+    },
+    {
+        "id": 58,
+        "name": "Cid Garlond"
+    },
+    {
+        "id": 59,
+        "name": "Alphinaud & Alisaie"
+    },
+    {
+        "id": 60,
+        "name": "Louisoix Leveilleur"
+    },
+    {
+        "id": 61,
+        "name": "Bahamut"
+    },
+    {
+        "id": 62,
+        "name": "Hildibrand & Nashu Mhakaracca"
+    },
+    {
+        "id": 63,
+        "name": "Nanamo Ul Namo"
+    },
+    {
+        "id": 64,
+        "name": "Gaius van Baelsar"
+    },
+    {
+        "id": 65,
+        "name": "Merlwyb Bloefhiswyn"
+    },
+    {
+        "id": 66,
+        "name": "Kan-E-Senna"
+    },
+    {
+        "id": 67,
+        "name": "Raubahn Aldynn"
+    },
+    {
+        "id": 68,
+        "name": "Warrior of Light"
+    },
+    {
+        "id": 69,
+        "name": "Firion"
+    },
+    {
+        "id": 70,
+        "name": "Onion Knight"
+    },
+    {
+        "id": 71,
+        "name": "Cecil Harvey"
+    },
+    {
+        "id": 72,
+        "name": "Bartz Klauser"
+    },
+    {
+        "id": 73,
+        "name": "Terra Branford"
+    },
+    {
+        "id": 74,
+        "name": "Cloud Strife"
+    },
+    {
+        "id": 75,
+        "name": "Squall Leonhart"
+    },
+    {
+        "id": 76,
+        "name": "Zidane Tribal"
+    },
+    {
+        "id": 77,
+        "name": "Tidus"
+    },
+    {
+        "id": 78,
+        "name": "Shantotto"
+    },
+    {
+        "id": 79,
+        "name": "Vaan"
+    },
+    {
+        "id": 80,
+        "name": "Lightning"
+    },
+    {
+        "id": 81,
+        "name": "Gaelicat"
+    },
+    {
+        "id": 82,
+        "name": "Vanu Vanu"
+    },
+    {
+        "id": 83,
+        "name": "Gnath"
+    },
+    {
+        "id": 84,
+        "name": "Yugiri Mistwalker"
+    },
+    {
+        "id": 85,
+        "name": "Fat Chocobo"
+    },
+    {
+        "id": 86,
+        "name": "Griffin"
+    },
+    {
+        "id": 87,
+        "name": "Tioman"
+    },
+    {
+        "id": 88,
+        "name": "Estinien"
+    },
+    {
+        "id": 89,
+        "name": "Lucia goe Junius"
+    },
+    {
+        "id": 90,
+        "name": "Ysayle"
+    },
+    {
+        "id": 91,
+        "name": "Hilda"
+    },
+    {
+        "id": 92,
+        "name": "Matoya"
+    },
+    {
+        "id": 93,
+        "name": "Count Edmont de Fortemps"
+    },
+    {
+        "id": 94,
+        "name": "Byblos"
+    },
+    {
+        "id": 95,
+        "name": "Haurchefant"
+    },
+    {
+        "id": 96,
+        "name": "Aymeric"
+    },
+    {
+        "id": 97,
+        "name": "Ravana"
+    },
+    {
+        "id": 98,
+        "name": "Bismarck"
+    },
+    {
+        "id": 99,
+        "name": "Nidhogg"
+    },
+    {
+        "id": 100,
+        "name": "Midgardsormr"
+    },
+    {
+        "id": 101,
+        "name": "Deepeye"
+    },
+    {
+        "id": 102,
+        "name": "Archaeornis"
+    },
+    {
+        "id": 103,
+        "name": "Paissa"
+    },
+    {
+        "id": 104,
+        "name": "Dhalmel"
+    },
+    {
+        "id": 105,
+        "name": "Bandersnatch"
+    },
+    {
+        "id": 106,
+        "name": "Crawler"
+    },
+    {
+        "id": 107,
+        "name": "Poroggo"
+    },
+    {
+        "id": 108,
+        "name": "Vedrfolnir"
+    },
+    {
+        "id": 109,
+        "name": "Coeurlregina"
+    },
+    {
+        "id": 110,
+        "name": "Progenitrix"
+    },
+    {
+        "id": 111,
+        "name": "Belladonna"
+    },
+    {
+        "id": 112,
+        "name": "Echidna"
+    },
+    {
+        "id": 113,
+        "name": "Pipin Tarupin"
+    },
+    {
+        "id": 114,
+        "name": "Julyan Manderville"
+    },
+    {
+        "id": 115,
+        "name": "Moglin"
+    },
+    {
+        "id": 116,
+        "name": "Charibert"
+    },
+    {
+        "id": 117,
+        "name": "Roundrox"
+    },
+    {
+        "id": 118,
+        "name": "Senor Sabotender"
+    },
+    {
+        "id": 119,
+        "name": "Regula van Hydrus"
+    },
+    {
+        "id": 120,
+        "name": "Archbishop Thordan VII"
+    },
+    {
+        "id": 121,
+        "name": "Honoroit"
+    },
+    {
+        "id": 122,
+        "name": "Hoary Boulder & Coultenet"
+    },
+    {
+        "id": 123,
+        "name": "Brachiosaur"
+    },
+    {
+        "id": 124,
+        "name": "Darkscale"
+    },
+    {
+        "id": 125,
+        "name": "Fenrir"
+    },
+    {
+        "id": 126,
+        "name": "Kraken"
+    },
+    {
+        "id": 127,
+        "name": "Vicegerent to the Warden"
+    },
+    {
+        "id": 128,
+        "name": "Manxome Molaa Ja Ja"
+    },
+    {
+        "id": 129,
+        "name": "Ferdiad"
+    },
+    {
+        "id": 130,
+        "name": "Calcabrina"
+    },
+    {
+        "id": 131,
+        "name": "Kuribu"
+    },
+    {
+        "id": 132,
+        "name": "Phlegethon"
+    },
+    {
+        "id": 133,
+        "name": "Artoirel de Fortemps"
+    },
+    {
+        "id": 134,
+        "name": "Emmanellain de Fortemps"
+    },
+    {
+        "id": 135,
+        "name": "Xande"
+    },
+    {
+        "id": 136,
+        "name": "Brute Justice"
+    },
+    {
+        "id": 137,
+        "name": "Sephirot"
+    },
+    {
+        "id": 138,
+        "name": "F'lhaminn"
+    },
+    {
+        "id": 139,
+        "name": "Vidofnir"
+    },
+    {
+        "id": 140,
+        "name": "Cloud of Darkness"
+    },
+    {
+        "id": 141,
+        "name": "Lolorito Nanarito"
+    },
+    {
+        "id": 142,
+        "name": "Gibrillont"
+    },
+    {
+        "id": 143,
+        "name": "Laniaitte de Haillenarte"
+    },
+    {
+        "id": 144,
+        "name": "Rhoswen"
+    },
+    {
+        "id": 145,
+        "name": "Carvallain de Gorgagne"
+    },
+    {
+        "id": 146,
+        "name": "Kal Myhk"
+    },
+    {
+        "id": 147,
+        "name": "Waukkeon"
+    },
+    {
+        "id": 148,
+        "name": "Curator"
+    },
+    {
+        "id": 149,
+        "name": "Mistbeard"
+    },
+    {
+        "id": 150,
+        "name": "Unei & Doga"
+    },
+    {
+        "id": 151,
+        "name": "Tiamat"
+    },
+    {
+        "id": 152,
+        "name": "Calofisteri"
+    },
+    {
+        "id": 153,
+        "name": "Hraesvelgr"
+    },
+    {
+        "id": 154,
+        "name": "Apkallu"
+    },
+    {
+        "id": 155,
+        "name": "Colibri"
+    },
+    {
+        "id": 156,
+        "name": "Magitek Death Claw"
+    },
+    {
+        "id": 157,
+        "name": "Liquid Flame"
+    },
+    {
+        "id": 158,
+        "name": "Lost Lamb"
+    },
+    {
+        "id": 159,
+        "name": "Delivery Moogle"
+    },
+    {
+        "id": 160,
+        "name": "Magitek Colossus"
+    },
+    {
+        "id": 161,
+        "name": "Strix"
+    },
+    {
+        "id": 162,
+        "name": "Tozol Huatotl"
+    },
+    {
+        "id": 163,
+        "name": "Alexander Prime"
+    },
+    {
+        "id": 164,
+        "name": "Brendt, Brennan, & Bremondt"
+    },
+    {
+        "id": 165,
+        "name": "Heavensward Thancred"
+    },
+    {
+        "id": 166,
+        "name": "Heavensward Y'shtola"
+    },
+    {
+        "id": 167,
+        "name": "Nael van Darnus"
+    },
+    {
+        "id": 168,
+        "name": "Sophia"
+    },
+    {
+        "id": 169,
+        "name": "Opo-opo"
+    },
+    {
+        "id": 170,
+        "name": "Adamantoise"
+    },
+    {
+        "id": 171,
+        "name": "Magitek Vanguard"
+    },
+    {
+        "id": 172,
+        "name": "Magitek Gunship"
+    },
+    {
+        "id": 173,
+        "name": "Gold Saucer Attendant"
+    },
+    {
+        "id": 174,
+        "name": "Lava Scorpion"
+    },
+    {
+        "id": 175,
+        "name": "Magitek Predator"
+    },
+    {
+        "id": 176,
+        "name": "Magitek Sky Armor"
+    },
+    {
+        "id": 177,
+        "name": "The Griffin"
+    },
+    {
+        "id": 178,
+        "name": "Roland"
+    },
+    {
+        "id": 179,
+        "name": "Diabolos Hollow"
+    },
+    {
+        "id": 180,
+        "name": "Armored Weapon"
+    },
+    {
+        "id": 181,
+        "name": "Gigi"
+    },
+    {
+        "id": 182,
+        "name": "Zurvan"
+    },
+    {
+        "id": 183,
+        "name": "Namazu"
+    },
+    {
+        "id": 184,
+        "name": "Kojin"
+    },
+    {
+        "id": 185,
+        "name": "Ananta"
+    },
+    {
+        "id": 186,
+        "name": "M'naago"
+    },
+    {
+        "id": 187,
+        "name": "Kotokaze"
+    },
+    {
+        "id": 188,
+        "name": "Mammoth"
+    },
+    {
+        "id": 189,
+        "name": "Phoebad"
+    },
+    {
+        "id": 190,
+        "name": "Susano"
+    },
+    {
+        "id": 191,
+        "name": "Lakshmi"
+    },
+    {
+        "id": 192,
+        "name": "Grynewaht"
+    },
+    {
+        "id": 193,
+        "name": "Rasho"
+    },
+    {
+        "id": 194,
+        "name": "Cirina"
+    },
+    {
+        "id": 195,
+        "name": "Magnai"
+    },
+    {
+        "id": 196,
+        "name": "Sadu"
+    },
+    {
+        "id": 197,
+        "name": "Shinryu"
+    },
+    {
+        "id": 198,
+        "name": "Yotsuyu"
+    },
+    {
+        "id": 199,
+        "name": "Krile"
+    },
+    {
+        "id": 200,
+        "name": "Lyse"
+    },
+    {
+        "id": 201,
+        "name": "Zenos yae Galvus"
+    },
+    {
+        "id": 202,
+        "name": "Hien"
+    },
+    {
+        "id": 203,
+        "name": "Mossling"
+    },
+    {
+        "id": 204,
+        "name": "Chapuli"
+    },
+    {
+        "id": 205,
+        "name": "Qiqirn Meateater"
+    },
+    {
+        "id": 206,
+        "name": "Hrodric Poisontongue"
+    },
+    {
+        "id": 207,
+        "name": "Fordola rem Lupis"
+    },
+    {
+        "id": 208,
+        "name": "Rofocale"
+    },
+    {
+        "id": 209,
+        "name": "Argath Thadalfus"
+    },
+    {
+        "id": 210,
+        "name": "Raubahn & Pipin"
+    },
+    {
+        "id": 211,
+        "name": "Koja"
+    },
+    {
+        "id": 212,
+        "name": "Ango"
+    },
+    {
+        "id": 213,
+        "name": "Guidance Node"
+    },
+    {
+        "id": 214,
+        "name": "Tansui"
+    },
+    {
+        "id": 215,
+        "name": "Genbu"
+    },
+    {
+        "id": 216,
+        "name": "Byakko"
+    },
+    {
+        "id": 217,
+        "name": "Arenvald Lentinus"
+    },
+    {
+        "id": 218,
+        "name": "Lupin"
+    },
+    {
+        "id": 219,
+        "name": "Hancock"
+    },
+    {
+        "id": 220,
+        "name": "Hisui & Kurenai"
+    },
+    {
+        "id": 221,
+        "name": "Wanyudo & Katasharin"
+    },
+    {
+        "id": 222,
+        "name": "Hatamoto"
+    },
+    {
+        "id": 223,
+        "name": "Yukinko"
+    },
+    {
+        "id": 224,
+        "name": "Qitian Dasheng"
+    },
+    {
+        "id": 225,
+        "name": "Hiruko"
+    },
+    {
+        "id": 226,
+        "name": "Happy Bunny"
+    },
+    {
+        "id": 227,
+        "name": "Louhi"
+    },
+    {
+        "id": 228,
+        "name": "Tsukuyomi"
+    },
+    {
+        "id": 229,
+        "name": "Yiazmat"
+    },
+    {
+        "id": 230,
+        "name": "Gosetsu"
+    },
+    {
+        "id": 231,
+        "name": "Karakuri Hanya"
+    },
+    {
+        "id": 232,
+        "name": "Muud Suud"
+    },
+    {
+        "id": 233,
+        "name": "Tokkapchi"
+    },
+    {
+        "id": 234,
+        "name": "Mist Dragon"
+    },
+    {
+        "id": 235,
+        "name": "Suzaku"
+    },
+    {
+        "id": 236,
+        "name": "Pazuzu"
+    },
+    {
+        "id": 237,
+        "name": "Penthesilea"
+    },
+    {
+        "id": 238,
+        "name": "Asahi sas Brutus"
+    },
+    {
+        "id": 239,
+        "name": "Yojimbo & Daigoro"
+    },
+    {
+        "id": 240,
+        "name": "Omega"
+    },
+    {
+        "id": 241,
+        "name": "Stormblood Tataru Taru"
+    },
+    {
+        "id": 242,
+        "name": "Dvergr"
+    },
+    {
+        "id": 243,
+        "name": "Ejika Tsunjika"
+    },
+    {
+        "id": 244,
+        "name": "Prometheus"
+    },
+    {
+        "id": 245,
+        "name": "Provenance Watcher"
+    },
+    {
+        "id": 246,
+        "name": "Seiryu"
+    },
+    {
+        "id": 247,
+        "name": "Alpha"
+    },
+    {
+        "id": 248,
+        "name": "Great Gold Whisker"
+    },
+    {
+        "id": 249,
+        "name": "Stormblood Gilgamesh"
+    },
+    {
+        "id": 250,
+        "name": "Ultima, the High Seraph"
+    },
+    {
+        "id": 251,
+        "name": "Stormblood Alphinaud & Alisaie"
+    },
+    {
+        "id": 252,
+        "name": "Noctis Lucis Caelum"
+    },
+    {
+        "id": 253,
+        "name": "Amaro"
+    },
+    {
+        "id": 254,
+        "name": "Evil Weapon"
+    },
+    {
+        "id": 255,
+        "name": "Lord and Lady Chai"
+    },
+    {
+        "id": 256,
+        "name": "Gigantender"
+    },
+    {
+        "id": 257,
+        "name": "Feo Ul"
+    },
+    {
+        "id": 258,
+        "name": "Runar"
+    },
+    {
+        "id": 259,
+        "name": "Grenoldt"
+    },
+    {
+        "id": 260,
+        "name": "Philia"
+    },
+    {
+        "id": 261,
+        "name": "Titania"
+    },
+    {
+        "id": 262,
+        "name": "Eros"
+    },
+    {
+        "id": 263,
+        "name": "Storge"
+    },
+    {
+        "id": 264,
+        "name": "Formidable"
+    },
+    {
+        "id": 265,
+        "name": "Lyna"
+    },
+    {
+        "id": 266,
+        "name": "Jongleurs of Eulmore"
+    },
+    {
+        "id": 267,
+        "name": "Innocence"
+    },
+    {
+        "id": 268,
+        "name": "Shadowbringers Y'shtola"
+    },
+    {
+        "id": 269,
+        "name": "Shadowbringers Urianger"
+    },
+    {
+        "id": 270,
+        "name": "Ran'jit"
+    },
+    {
+        "id": 271,
+        "name": "Hades"
+    },
+    {
+        "id": 272,
+        "name": "Ardbert"
+    },
+    {
+        "id": 273,
+        "name": "Hobgoblin"
+    },
+    {
+        "id": 274,
+        "name": "Porxie"
+    },
+    {
+        "id": 275,
+        "name": "Iguana"
+    },
+    {
+        "id": 276,
+        "name": "Nu Mou"
+    },
+    {
+        "id": 277,
+        "name": "Fuath"
+    },
+    {
+        "id": 278,
+        "name": "Leannan Sith"
+    },
+    {
+        "id": 279,
+        "name": "Seeker of Solitude"
+    },
+    {
+        "id": 280,
+        "name": "Oracle of Light"
+    },
+    {
+        "id": 281,
+        "name": "Archaeotania"
+    },
+    {
+        "id": 282,
+        "name": "9S"
+    },
+    {
+        "id": 283,
+        "name": "Flower Basket"
+    },
+    {
+        "id": 284,
+        "name": "Qitari"
+    },
+    {
+        "id": 285,
+        "name": "Gnoll"
+    },
+    {
+        "id": 286,
+        "name": "Lizbeth"
+    },
+    {
+        "id": 287,
+        "name": "Batsquatch"
+    },
+    {
+        "id": 288,
+        "name": "Forgiven Obscenity"
+    },
+    {
+        "id": 289,
+        "name": "Huaca"
+    },
+    {
+        "id": 290,
+        "name": "Unknown"
+    },
+    {
+        "id": 291,
+        "name": "Ruby Weapon"
+    },
+    {
+        "id": 292,
+        "name": "Therion"
+    },
+    {
+        "id": 293,
+        "name": "Varis yae Galvus"
+    },
+    {
+        "id": 294,
+        "name": "Dwarf"
+    },
+    {
+        "id": 295,
+        "name": "Ehll Tou"
+    },
+    {
+        "id": 296,
+        "name": "Rolling Tankard"
+    },
+    {
+        "id": 297,
+        "name": "Lugus"
+    },
+    {
+        "id": 298,
+        "name": "Dawon"
+    },
+    {
+        "id": 299,
+        "name": "Adrammelech"
+    },
+    {
+        "id": 300,
+        "name": "Elidibus"
+    },
+    {
+        "id": 301,
+        "name": "Shadowbringers Thancred"
+    },
+    {
+        "id": 302,
+        "name": "Sapphire Weapon"
+    },
+    {
+        "id": 303,
+        "name": "2P"
+    },
+    {
+        "id": 304,
+        "name": "Shadowbringers Warrior of Light"
+    },
+    {
+        "id": 305,
+        "name": "Great Azuro"
+    },
+    {
+        "id": 306,
+        "name": "Mother Porxie"
+    },
+    {
+        "id": 307,
+        "name": "Trinity Seeker"
+    },
+    {
+        "id": 308,
+        "name": "Trinity Avowed"
+    },
+    {
+        "id": 309,
+        "name": "Azulmagia"
+    },
+    {
+        "id": 310,
+        "name": "Siegfried"
+    },
+    {
+        "id": 311,
+        "name": "Gogo, Master of Mimicry"
+    },
+    {
+        "id": 312,
+        "name": "Emerald Weapon"
+    },
+    {
+        "id": 313,
+        "name": "Ryne"
+    },
+    {
+        "id": 314,
+        "name": "Gaia"
+    },
+    {
+        "id": 315,
+        "name": "Eden's Promise"
+    },
+    {
+        "id": 316,
+        "name": "Phoenix"
+    },
+    {
+        "id": 317,
+        "name": "Keeper of the Keys"
+    },
+    {
+        "id": 318,
+        "name": "Lunar Bahamut"
+    },
+    {
+        "id": 319,
+        "name": "Valens van Varro"
+    },
+    {
+        "id": 320,
+        "name": "Lunar Ifrit"
+    },
+    {
+        "id": 321,
+        "name": "4th-make Shemhazai"
+    },
+    {
+        "id": 322,
+        "name": "4th-make Cuchulainn"
+    },
+    {
+        "id": 323,
+        "name": "G-Warrior"
+    },
+    {
+        "id": 324,
+        "name": "Diamond Weapon"
+    },
+    {
+        "id": 325,
+        "name": "Diablo Armament"
+    },
+    {
+        "id": 326,
+        "name": "2B"
+    },
+    {
+        "id": 327,
+        "name": "Troll"
+    },
+    {
+        "id": 328,
+        "name": "Pisaca"
+    },
+    {
+        "id": 329,
+        "name": "Ea"
+    },
+    {
+        "id": 330,
+        "name": "Arkasodara"
+    },
+    {
+        "id": 331,
+        "name": "Loporrit"
+    },
+    {
+        "id": 332,
+        "name": "Argos"
+    },
+    {
+        "id": 333,
+        "name": "Hermes"
+    },
+    {
+        "id": 334,
+        "name": "Amon the Undying"
+    },
+    {
+        "id": 335,
+        "name": "Erichthonios"
+    },
+    {
+        "id": 336,
+        "name": "Magus Sisters"
+    },
+    {
+        "id": 337,
+        "name": "Meteion"
+    },
+    {
+        "id": 338,
+        "name": "Fourchenault Leveilleur"
+    },
+    {
+        "id": 339,
+        "name": "Anima"
+    },
+    {
+        "id": 340,
+        "name": "Quintus van Cinna"
+    },
+    {
+        "id": 341,
+        "name": "Endwalker Alphinaud & Alisaie"
+    },
+    {
+        "id": 342,
+        "name": "Hythlodaeus"
+    },
+    {
+        "id": 343,
+        "name": "Vrtra"
+    },
+    {
+        "id": 344,
+        "name": "Zodiark"
+    },
+    {
+        "id": 345,
+        "name": "Hydaelyn"
+    },
+    {
+        "id": 346,
+        "name": "Zenos Galvus"
+    },
+    {
+        "id": 347,
+        "name": "Rampart"
+    },
+    {
+        "id": 348,
+        "name": "Hippo Cart"
+    },
+    {
+        "id": 349,
+        "name": "Gajasura"
+    },
+    {
+        "id": 350,
+        "name": "Rhalgr"
+    },
+    {
+        "id": 351,
+        "name": "Azeyma"
+    },
+    {
+        "id": 352,
+        "name": "Nald"
+    },
+    {
+        "id": 353,
+        "name": "Thal"
+    },
+    {
+        "id": 354,
+        "name": "Chi"
+    },
+    {
+        "id": 355,
+        "name": "Daivadipa"
+    },
+    {
+        "id": 356,
+        "name": "Endsinger"
+    },
+    {
+        "id": 357,
+        "name": "N-7000"
+    },
+    {
+        "id": 358,
+        "name": "Geryon the Steer"
+    },
+    {
+        "id": 359,
+        "name": "Gladiator of Sil'dih"
+    },
+    {
+        "id": 360,
+        "name": "Thorne Knight"
+    },
+    {
+        "id": 361,
+        "name": "Beatrice"
+    },
+    {
+        "id": 362,
+        "name": "Byregot"
+    },
+    {
+        "id": 363,
+        "name": "Shadowcaster Zeless Gah"
+    },
+    {
+        "id": 364,
+        "name": "Scarmiglione"
+    },
+    {
+        "id": 365,
+        "name": "Barbariccia"
+    },
+    {
+        "id": 366,
+        "name": "Chief Keyward Lahabrea"
+    },
+    {
+        "id": 367,
+        "name": "Hephaistos"
+    },
+    {
+        "id": 368,
+        "name": "Clockwork Onmyoji & Clockwork Yojimbo"
+    },
+    {
+        "id": 369,
+        "name": "Dreamingway"
+    },
+    {
+        "id": 370,
+        "name": "Felicitous Furball"
+    },
+    {
+        "id": 371,
+        "name": "Anden"
+    },
+    {
+        "id": 372,
+        "name": "Suprae-Lugae"
+    },
+    {
+        "id": 373,
+        "name": "Gancanagh"
+    },
+    {
+        "id": 374,
+        "name": "Menphina"
+    },
+    {
+        "id": 375,
+        "name": "Cagnazzo"
+    },
+    {
+        "id": 376,
+        "name": "Rubicante"
+    },
+    {
+        "id": 377,
+        "name": "Venat"
+    },
+    {
+        "id": 378,
+        "name": "Okuri Chochin"
+    },
+    {
+        "id": 379,
+        "name": "Gorai the Uncaged"
+    },
+    {
+        "id": 380,
+        "name": "Moko the Restless"
+    },
+    {
+        "id": 381,
+        "name": "Octomammoth"
+    },
+    {
+        "id": 382,
+        "name": "Proto-Carbuncle"
+    },
+    {
+        "id": 383,
+        "name": "Goldor"
+    },
+    {
+        "id": 384,
+        "name": "Shishio"
+    },
+    {
+        "id": 385,
+        "name": "Themis"
+    },
+    {
+        "id": 386,
+        "name": "Enenra"
+    },
+    {
+        "id": 387,
+        "name": "Golbez"
+    },
+    {
+        "id": 388,
+        "name": "Athena"
+    },
+    {
+        "id": 389,
+        "name": "Ketuduke"
+    },
+    {
+        "id": 390,
+        "name": "Lala"
+    },
+    {
+        "id": 391,
+        "name": "Statice"
+    },
+    {
+        "id": 392,
+        "name": "PuPu"
+    },
+    {
+        "id": 393,
+        "name": "Loquloqui"
+    },
+    {
+        "id": 394,
+        "name": "Nophica"
+    },
+    {
+        "id": 395,
+        "name": "Althyk"
+    },
+    {
+        "id": 396,
+        "name": "Nymeia"
+    },
+    {
+        "id": 397,
+        "name": "Halone"
+    },
+    {
+        "id": 398,
+        "name": "Thaliak"
+    },
+    {
+        "id": 399,
+        "name": "Llymlaen"
+    },
+    {
+        "id": 400,
+        "name": "Oschon"
+    },
+    {
+        "id": 401,
+        "name": "Durante"
+    },
+    {
+        "id": 402,
+        "name": "Eulogia"
+    },
+    {
+        "id": 403,
+        "name": "Asura"
+    },
+    {
+        "id": 404,
+        "name": "Zeromus"
+    },
+    {
+        "id": 405,
+        "name": "Clive Rosfield"
+    },
+    {
+        "id": 406,
+        "name": "Pelupelu"
+    },
+    {
+        "id": 407,
+        "name": "Alpaca"
+    },
+    {
+        "id": 408,
+        "name": "Moblin"
+    },
+    {
+        "id": 409,
+        "name": "Branchbearer"
+    },
+    {
+        "id": 410,
+        "name": "Rroneek"
+    },
+    {
+        "id": 411,
+        "name": "Sentry R8"
+    },
+    {
+        "id": 412,
+        "name": "Outrunner"
+    },
+    {
+        "id": 413,
+        "name": "Gulool Ja Ja"
+    },
+    {
+        "id": 414,
+        "name": "Drowsie"
+    },
+    {
+        "id": 415,
+        "name": "Ryoqor Terteh"
+    },
+    {
+        "id": 416,
+        "name": "Maulskull"
+    },
+    {
+        "id": 417,
+        "name": "Ambrose"
+    },
+    {
+        "id": 418,
+        "name": "Valigarmanda"
+    },
+    {
+        "id": 419,
+        "name": "Zoraal Ja"
+    },
+    {
+        "id": 420,
+        "name": "Queen Eternal"
+    },
+    {
+        "id": 421,
+        "name": "Black Cat"
+    },
+    {
+        "id": 422,
+        "name": "Otis"
+    },
+    {
+        "id": 423,
+        "name": "Cahciua"
+    },
+    {
+        "id": 424,
+        "name": "Wuk Lamat"
+    },
+    {
+        "id": 425,
+        "name": "Sphene"
+    },
+    {
+        "id": 426,
+        "name": "Overseer Kanilokka"
+    },
+    {
+        "id": 427,
+        "name": "Ark Angel MR"
+    },
+    {
+        "id": 428,
+        "name": "Ark Angel TT"
+    },
+    {
+        "id": 429,
+        "name": "Ark Angel GK"
+    },
+    {
+        "id": 430,
+        "name": "Ark Angel HM"
+    },
+    {
+        "id": 431,
+        "name": "Ark Angel EV"
+    },
+    {
+        "id": 432,
+        "name": "Ttokrrone"
+    },
+    {
+        "id": 433,
+        "name": "Mica the Magical Mu"
+    },
+    {
+        "id": 434,
+        "name": "Prishe of the Distant Chains"
+    },
+    {
+        "id": 435,
+        "name": "Shadow Lord"
+    }
+]

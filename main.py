@@ -33,7 +33,8 @@ def main():
             # TODO implement this
             print("Not implemented yet")
 
-
+# Please do not increase the batch size above 50, as requested by the developer
+# Also, ensure the sleep time remains reasonable to avoid stressing the server
 def update_via_api(category, data, retries=3, batch_size=50, sleep_time=5):
     url = API_URL + str(character_id) + "/" + category + "/"
     headers = {

@@ -1,0 +1,506 @@
+[
+    {
+        "id": 2,
+        "name": "Memeroon"
+    },
+    {
+        "id": 3,
+        "name": "Jonas of the Three Spades"
+    },
+    {
+        "id": 4,
+        "name": "Maisenta"
+    },
+    {
+        "id": 5,
+        "name": "Roger"
+    },
+    {
+        "id": 6,
+        "name": "Guhtwint of the Three Diamonds"
+    },
+    {
+        "id": 7,
+        "name": "Mother Miounne"
+    },
+    {
+        "id": 8,
+        "name": "Wymond"
+    },
+    {
+        "id": 9,
+        "name": "Momodi"
+    },
+    {
+        "id": 10,
+        "name": "F'hobhas"
+    },
+    {
+        "id": 11,
+        "name": "Triple Triad master"
+    },
+    {
+        "id": 12,
+        "name": "Joellaut"
+    },
+    {
+        "id": 13,
+        "name": "Aurifort of the Three Clubs"
+    },
+    {
+        "id": 14,
+        "name": "Piralnaut"
+    },
+    {
+        "id": 15,
+        "name": "Trachtoum"
+    },
+    {
+        "id": 16,
+        "name": "Mimidoa"
+    },
+    {
+        "id": 17,
+        "name": "Baderon"
+    },
+    {
+        "id": 18,
+        "name": "Fufulupa"
+    },
+    {
+        "id": 19,
+        "name": "Helmhart"
+    },
+    {
+        "id": 20,
+        "name": "Ourdilic"
+    },
+    {
+        "id": 21,
+        "name": "Ruhtwyda of the Three Hearts"
+    },
+    {
+        "id": 22,
+        "name": "Marcette"
+    },
+    {
+        "id": 23,
+        "name": "Buscarron"
+    },
+    {
+        "id": 24,
+        "name": "Sezul Totoloc"
+    },
+    {
+        "id": 25,
+        "name": "Landenel"
+    },
+    {
+        "id": 26,
+        "name": "King Elmer III"
+    },
+    {
+        "id": 27,
+        "name": "Vorsaile Heuloix"
+    },
+    {
+        "id": 28,
+        "name": "Swift"
+    },
+    {
+        "id": 29,
+        "name": "Hab"
+    },
+    {
+        "id": 30,
+        "name": "indolent imperial"
+    },
+    {
+        "id": 31,
+        "name": "Rowena"
+    },
+    {
+        "id": 32,
+        "name": "Gegeruju"
+    },
+    {
+        "id": 33,
+        "name": "R'ashaht Rhiki"
+    },
+    {
+        "id": 35,
+        "name": "Noes"
+    },
+    {
+        "id": 36,
+        "name": "Yellow Moon"
+    },
+    {
+        "id": 37,
+        "name": "Wawalago"
+    },
+    {
+        "id": 38,
+        "name": "Yayake"
+    },
+    {
+        "id": 39,
+        "name": "Gibrillont"
+    },
+    {
+        "id": 40,
+        "name": "Marcechamp"
+    },
+    {
+        "id": 41,
+        "name": "Marielle"
+    },
+    {
+        "id": 42,
+        "name": "Midnight Dew"
+    },
+    {
+        "id": 43,
+        "name": "idle imperial"
+    },
+    {
+        "id": 44,
+        "name": "Mogmill"
+    },
+    {
+        "id": 46,
+        "name": "Elaisse"
+    },
+    {
+        "id": 47,
+        "name": "Dominiac"
+    },
+    {
+        "id": 48,
+        "name": "Laniaitte"
+    },
+    {
+        "id": 49,
+        "name": "voracious Vath"
+    },
+    {
+        "id": 50,
+        "name": "Seika"
+    },
+    {
+        "id": 51,
+        "name": "Lewena"
+    },
+    {
+        "id": 52,
+        "name": "Linu Vali"
+    },
+    {
+        "id": 53,
+        "name": "Vath deftarm"
+    },
+    {
+        "id": 54,
+        "name": "Klynthota"
+    },
+    {
+        "id": 55,
+        "name": "Tapklix"
+    },
+    {
+        "id": 56,
+        "name": "House Fortemps manservant"
+    },
+    {
+        "id": 57,
+        "name": "Master Mogzin"
+    },
+    {
+        "id": 58,
+        "name": "O'kalkaya"
+    },
+    {
+        "id": 59,
+        "name": "Mordyn"
+    },
+    {
+        "id": 60,
+        "name": "Wyra \u201cGreenhands\u201d Lyehga"
+    },
+    {
+        "id": 61,
+        "name": "Prideful Stag"
+    },
+    {
+        "id": 62,
+        "name": "Nell Half-full"
+    },
+    {
+        "id": 63,
+        "name": "Flichoirel the Lordling"
+    },
+    {
+        "id": 64,
+        "name": "hall overseer"
+    },
+    {
+        "id": 65,
+        "name": "Ercanbald"
+    },
+    {
+        "id": 66,
+        "name": "Kotokaze"
+    },
+    {
+        "id": 67,
+        "name": "Kaizan"
+    },
+    {
+        "id": 68,
+        "name": "Tsuzura"
+    },
+    {
+        "id": 69,
+        "name": "Gyoei"
+    },
+    {
+        "id": 70,
+        "name": "Nigen"
+    },
+    {
+        "id": 71,
+        "name": "Ogodei"
+    },
+    {
+        "id": 72,
+        "name": "Munglig"
+    },
+    {
+        "id": 73,
+        "name": "Kiuka"
+    },
+    {
+        "id": 74,
+        "name": "Garima"
+    },
+    {
+        "id": 75,
+        "name": "imperial deserter"
+    },
+    {
+        "id": 76,
+        "name": "Masatsuchi"
+    },
+    {
+        "id": 77,
+        "name": "Isobe"
+    },
+    {
+        "id": 78,
+        "name": "Yusui"
+    },
+    {
+        "id": 79,
+        "name": "Kikimo"
+    },
+    {
+        "id": 80,
+        "name": "Umber Torrent"
+    },
+    {
+        "id": 81,
+        "name": "Hokushin"
+    },
+    {
+        "id": 82,
+        "name": "Hachinan"
+    },
+    {
+        "id": 83,
+        "name": "Botan"
+    },
+    {
+        "id": 84,
+        "name": "Redbill storeboy"
+    },
+    {
+        "id": 85,
+        "name": "Mero Roggo"
+    },
+    {
+        "id": 86,
+        "name": "Ushiogi"
+    },
+    {
+        "id": 87,
+        "name": "Ironworks hand"
+    },
+    {
+        "id": 88,
+        "name": "Hetsukaze"
+    },
+    {
+        "id": 89,
+        "name": "Glynard"
+    },
+    {
+        "id": 90,
+        "name": "Gyuf Uin"
+    },
+    {
+        "id": 91,
+        "name": "Hargra"
+    },
+    {
+        "id": 92,
+        "name": "Drery"
+    },
+    {
+        "id": 93,
+        "name": "Ibenart"
+    },
+    {
+        "id": 94,
+        "name": "Lamlyn"
+    },
+    {
+        "id": 95,
+        "name": "Saushs Koal"
+    },
+    {
+        "id": 96,
+        "name": "Grewenn"
+    },
+    {
+        "id": 97,
+        "name": "Eo Sigun"
+    },
+    {
+        "id": 98,
+        "name": "Redard"
+    },
+    {
+        "id": 99,
+        "name": "Hanagasa"
+    },
+    {
+        "id": 100,
+        "name": "Cobleva"
+    },
+    {
+        "id": 101,
+        "name": "furtive former imperial"
+    },
+    {
+        "id": 102,
+        "name": "Arsieu"
+    },
+    {
+        "id": 111,
+        "name": "Droyn"
+    },
+    {
+        "id": 112,
+        "name": "Lewto-Sue"
+    },
+    {
+        "id": 113,
+        "name": "Sladkey"
+    },
+    {
+        "id": 114,
+        "name": "Aiglephine"
+    },
+    {
+        "id": 115,
+        "name": "Qetanur"
+    },
+    {
+        "id": 116,
+        "name": "worldly imperial"
+    },
+    {
+        "id": 117,
+        "name": "Mehryde"
+    },
+    {
+        "id": 118,
+        "name": "Cheatingway"
+    },
+    {
+        "id": 119,
+        "name": "Celia"
+    },
+    {
+        "id": 120,
+        "name": "Ghasa"
+    },
+    {
+        "id": 121,
+        "name": "Prudence"
+    },
+    {
+        "id": 122,
+        "name": "Kilfufu"
+    },
+    {
+        "id": 123,
+        "name": "Gamingway"
+    },
+    {
+        "id": 124,
+        "name": "Ruissenaud"
+    },
+    {
+        "id": 125,
+        "name": "Tokimori"
+    },
+    {
+        "id": 126,
+        "name": "Ylaire"
+    },
+    {
+        "id": 127,
+        "name": "Maillart"
+    },
+    {
+        "id": 128,
+        "name": "Nyikweni"
+    },
+    {
+        "id": 129,
+        "name": "Wopli"
+    },
+    {
+        "id": 130,
+        "name": "Warsowok"
+    },
+    {
+        "id": 131,
+        "name": "Br'uk Noq'"
+    },
+    {
+        "id": 132,
+        "name": "Luwyawa"
+    },
+    {
+        "id": 133,
+        "name": "Uataaye"
+    },
+    {
+        "id": 134,
+        "name": "Larisa"
+    },
+    {
+        "id": 135,
+        "name": "Gavoll Ja"
+    },
+    {
+        "id": 136,
+        "name": "Pawkukwe"
+    },
+    {
+        "id": 137,
+        "name": "Miitso"
+    }
+]

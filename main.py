@@ -22,16 +22,15 @@ def main():
         category = filename.stem
         data = import_from_file(filename)
         if category in CATEGORIES:
-            print(f"Processing {len(data)} entries for category {category}")
             # Entries are inside category variable
             update_via_api(
                 category, get_pending_entries(category, preprocess_data(data))
             )
-            print(f"Finished processing {category}\n")
         else:
             # Entries are inside a variable named as the category
             # TODO implement this
-            print("Not implemented yet")
+            print(f"Category '{category}' not found. Mass import file not supported yet.")
+
 
 # Please do not increase the batch size above 50, as requested by the developer
 # Also, ensure the sleep time remains reasonable to avoid stressing the server
@@ -69,41 +68,41 @@ def update_via_api(category, data, retries=3, batch_size=50, sleep_time=5):
 
 def get_pending_entries(category, data):
     pending_entries = []
+    discard_entries = []
     entries = load_category(category, character_id)
-    pending = [e for e in entries if not e["added"]]
 
-    pending_entries_dict = {e["id"]: e for e in pending if e["id"] is not None}
-    pending_entries_name_dict = {e["name"]: e for e in pending if e["name"] is not None}
-
-    already_added_count = 0
+    entries_dict = {e["id"]: e for e in entries if e["id"] is not None}
+    entries_name_dict = {e["name"].lower(): e for e in entries if e["name"] is not None}
 
     for entry in data:
         pending_entry = None
         if entry["id"] is not None and entry["name"] is not None:
-            pending_entry_by_id = pending_entries_dict.get(entry["id"])
-            pending_entry_by_name = pending_entries_name_dict.get(entry["name"])
-            if (
-                pending_entry_by_id == pending_entry_by_name
-                and pending_entry_by_id is not None
-            ):
-                pending_entry = pending_entry_by_id
+            entry_by_id = entries_dict.get(entry["id"])
+            entry_by_name = entries_name_dict.get(entry["name"].lower())
+            if entry_by_id == entry_by_name and entry_by_id is not None:
+                pending_entry = entry_by_id
         elif entry["id"] is not None:
-            pending_entry = pending_entries_dict.get(entry["id"])
+            pending_entry = entries_dict.get(entry["id"])
         elif entry["name"] is not None:
-            pending_entry = pending_entries_name_dict.get(entry["name"])
+            pending_entry = entries_name_dict.get(entry["name"].lower())
 
         if pending_entry is not None:
-            if pending_entry not in pending_entries:
+            if pending_entry not in pending_entries and not pending_entry["added"]:
                 pending_entries.append(pending_entry)
+        else:
+            if entry not in discard_entries:
+                discard_entries.append(entry)
 
-    already_added_count = len(entries) - len(pending)
+    if discard_entries:
+        print(f"{len(discard_entries)} entries not found for category {category}")
+        show_not_found = input(
+            "Do you want to see the entries that are not found? (yes/no): "
+        )
 
-    print(f"Entries to add: {len(pending_entries)}")
-    print(f"Entries already added: {already_added_count}")
-    # BUG duplicate entries are counted as not found
-    print(
-        f"Entries not found: {len(data) - len(pending_entries) - already_added_count}"
-    )
+        if show_not_found.lower() == "yes" or show_not_found.lower() == "y":
+            for entry in discard_entries:
+                print(entry)
+            input("Press any key to continue...")
 
     return pending_entries
 
